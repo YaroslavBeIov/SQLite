@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SQLite" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorAccent">#3700B3</item> <!-- Используем colorAccent вместо colorPrimaryVariant -->
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:textColorPrimary">#000000</item> <!-- Задаем основной цвет текста -->
+    </style>
+</resources>
